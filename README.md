@@ -1,8 +1,13 @@
 # AutomationZ Config Diff [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
-**Build for my DayZ Server to compare backups of files / folders which i make before making changes. 
-If i encounter a error i can download the current files make 2 snapshots and compare the snapshots and see the changes made in the report files.
-**No DayZ mod** required can be used for any Game / server, website, whatever has folders and files!**
+
+**This tool was originally built for my DayZ server to compare backups of configuration files and folders before and after making changes.
+By creating snapshots of files at different moments in time, I can easily compare a working state with a broken one and see exactly what changed in a clear report.
+When something breaks, I simply download the current files, create two snapshots, run a comparison, and immediately know what was added, removed, or modified.
+No DayZ mod is required.
+Although designed with DayZ servers in mind, this tool works for any game server, website, application, or system that uses folders and files — making it a universal configuration diff and troubleshooting tool.**
+
 [![Config_Diff_Set_name.png](https://i.postimg.cc/x8Ytps1q/Config_Diff_Set_name.png)](https://postimg.cc/JD6NG5JW)
+
 **AutomationZ Config Diff** is a lightweight **snapshot + compare (diff)** tool for server admins and modders.
 It helps you quickly answer the question:
 
