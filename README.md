@@ -12,8 +12,6 @@ It’s perfect for debugging **broken loot**, **wrong settings**, **DayZ updates
 ✅ Creates clean **Markdown diff reports** you can share  
 ✅ Beginner-friendly workflow
 
-**Created by Danny van den Brande**
-
 ---
 
 ## What this tool is for
