@@ -1,3 +1,4 @@
+This tool never modifies your files — it only copies and compares them.
 # AutomationZ Config Diff [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
 **This tool was originally built for my DayZ server to compare backups of configuration files and folders before and after making changes.
